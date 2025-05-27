@@ -1,0 +1,6 @@
+Insights from the Sales Dashboard:
+The West region had the highest overall sales, especially showing strong performance in Q3 and Q4.
+
+Technology category led in revenue, contributing more than 35% of total sales despite fewer orders than Office Supplies.
+
+Sales peaked in November and December, indicating strong holiday season performance across all regions.
